@@ -1,4 +1,4 @@
-# sitemap
+# sitemap xml gererator
 This script generates a sitemap.xml
 if your site consists of<br />
 root directory<br />
