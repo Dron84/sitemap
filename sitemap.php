@@ -41,9 +41,6 @@ for ($i=1; $i < count($result) ; $i++) {
 }
 
 $xml .= '</urlset>';
-shell_exec('rm sitemap.xml');
-$file = fopen('sitemap.xml', 'a+');
-fwrite($file , $xml);
-fclose($file);
+file_put_contents("sitemap.xml", $xml);
 echo 'sitemap.xml is create';
 ?>

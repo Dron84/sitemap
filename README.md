@@ -2,7 +2,7 @@
 This script generates a sitemap.xml
 if your site consists of<br />
 root directory<br />
-/arcticles/<br />
+/articles/<br />
 /info/<br />
 /..../<br />
 /about/<br />
@@ -19,7 +19,7 @@ attention script for Linux similar server!!!
 Этот скрипт генерирует sitemap.xml
 если у вас сайт состоит из<br />
 корневой каталог<br />
-/arcticles/<br />
+/articles/<br />
 /info/<br />
 /..../<br />
 /about/<br />
