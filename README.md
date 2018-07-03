@@ -12,6 +12,7 @@ root directory<br />
 <br />
 and they have an file index.php<br />
 then this script is in the root of the site. Will generate a file when you pass the sitemap.xml and inform about it.<br />
+My site is [uniquesite.ru](http://uniquesite.ru)"uniquesite.ru"<br />
 P.S.<br />  
 attention script for Linux similar server!!!
 
@@ -28,5 +29,6 @@ attention script for Linux similar server!!!
 <br />
 и в них есть файл index.php<br />
 то данный скирипт находясь в корне сайта сгенерирует при проходе файл sitemap.xml и проинформирует об этом<br />
+Мой сайт [uniquesite.ru](http://uniquesite.ru)"uniquesite.ru"<br />
 P.S.<br />  
 внимание скрипт под Linux подобный сервер!!!
